@@ -1,0 +1,14 @@
+https://processing.org/tutorials/objects/
+
+1. In what ways is a class like a cookie cutter?
+Think of a cookie cutter. A cookie cutter makes cookies, but it is not a 
+cookie itself. The cookie cutter is the class, the cookies are the objects.
+
+2. What sets apart instance variables from regular variables?
+ They allow you to take all of the different variables and store 
+ them directly into an object. E.g. car-location, car-speed, car-color
+ were all repositioned into car object and then referenced that way with 
+ car object containing all of those properties. 
+ 
+ 3. In the following code, how many instances of Ball are created in total?
+ Two, Ball b and Ball b2
